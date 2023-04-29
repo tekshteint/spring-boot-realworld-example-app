@@ -50,7 +50,7 @@ def articles(auth_token: str) -> None:
                 "favorited" : "false",
                 "favortiesCount" : 0,
                 "author" : {
-                    "username" : "user1",
+                    "username" : "user",
                     "bio" : f"{i}'s bio",
                     "following" : "false"
                 }
